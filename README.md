@@ -22,7 +22,7 @@ The dashboard provides a comprehensive view of sales performance across multiple
 
 ## File Included
 
-- Sales_Analysis_Dashboard_Final_Kavya.xlsx  
+- Sales-Analysis-Dashboard-Final.xlsx  
 
 ## Author
 
